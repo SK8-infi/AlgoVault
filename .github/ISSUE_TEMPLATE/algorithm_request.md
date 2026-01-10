@@ -34,15 +34,6 @@ Which language(s) should this algorithm be implemented in?
 
 Provide a brief description of the algorithm and what it does.
 
-## 🔗 References or Resources
-
-Please provide links to resources that explain this algorithm:
-
-- Wikipedia: 
-- Tutorial: 
-- Video: 
-- Other: 
-
 ## ⚡ Difficulty Level
 
 What do you think is the difficulty level of implementing this algorithm?
